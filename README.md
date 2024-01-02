@@ -23,6 +23,9 @@ Here are some ideas to get you started:
 <p>👨‍💻 <b>Programming</b>: Python</p>
 <p>🖥 <b>Software</b>: Jupyter Notebook, PyCharm, DBeaver, MS Office</p>
 
+## Certifications
+<p>Certified as Data Analyst Associate (Dec 2023). To show credential click <a href='https://www.datacamp.com/certificate/DAA0014404438096' target='_blank'>here</a>.</p>
+
 ## About me
 <p>If you're reading this, that means I'm about to complete my exciting career switch from Education to Data Analytics, which I accomplished in just 1 year. And now I’m looking for a place where I can apply my freshly acquired data skills.</p>
 
@@ -33,7 +36,7 @@ Here are some ideas to get you started:
 <li><p>🤔 I have strong Logical and Analytical skills, which is proven by the ALVA Logic Test (my score is 9 out of 10 or TOP 93rd-98th percentile).</p></li>
 <li><p>🧩 I am crazy about quests, quizzes and brainteasers. And I don't give up until I solve one.</p></li>
 </ul>
-<p>And finally, I'm eager to make this world more data-driven. Are you with me?</p>
+<p>And finally, I'm going to make this world more data-driven. Are you with me?</p>
 
 ## Contact me
 🔗<a href='https://www.linkedin.com/in/dzmitry-makarchuk/'>Dzmitry Makarchuk | LinkedIn</a>
